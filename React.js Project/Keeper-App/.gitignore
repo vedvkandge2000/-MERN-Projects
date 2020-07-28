@@ -1,0 +1,5 @@
+/node_modules
+npm-debug.log
+tmpnodejsnpm-cache
+.DS_Store
+/*.env
